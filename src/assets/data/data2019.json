@@ -1,0 +1,209 @@
+[
+    {
+        "Facet": "Executive Heads",
+        "members": [
+            {
+                "fname": "Vaibhav",
+                "lname": "Khatwani",
+                "facet_extra": "",
+                "img": "75"
+            },
+            {
+                "fname": "Harshvardhan",
+                "lname": "Mittal",
+                "facet_extra": "",
+                "img": "76"
+            }
+        ]
+    },
+    {
+        "Facet": "Sponsorship and Marketing",
+        "members": [
+            {
+                "fname": "Vitthal",
+                "lname": "Agarwal",
+                "facet_extra": "",
+                "img": "77"
+            },
+            {
+                "fname": "Shreyansh",
+                "lname": "Shah",
+                "facet_extra": "",
+                "img": "78"
+            },
+            {
+                "fname": "Hritik",
+                "lname": "Khetan",
+                "facet_extra": "",
+                "img": "79"
+            },
+            {
+                "fname": "Nishi",
+                "lname": "Bajaj",
+                "facet_extra": "",
+                "img": "80"
+            },
+            {
+                "fname": "Shreyash",
+                "lname": "Gupta",
+                "facet_extra": "",
+                "img": "81"
+            }
+        ]
+    },
+    {
+        "Facet": "Publicity and Marketing",
+        "members": [
+            {
+                "fname": "Vaibhav",
+                "lname": "Kesarwani",
+                "facet_extra": "",
+                "img": "82"
+            },
+            {
+                "fname": "Shivam",
+                "lname": "Shukla",
+                "facet_extra": "",
+                "img": "83"
+            },
+            {
+                "fname": "Jyotsna",
+                "lname": "",
+                "facet_extra": "",
+                "img": "84"
+            }
+        ]
+    },
+    {
+        "Facet": "Media and Public Relations",
+        "members": [
+            {
+                "fname": "Aayush",
+                "lname": "Mudgal",
+                "facet_extra": "",
+                "img": "85"
+            }
+        ]
+    },
+    {
+        "Facet": "Events",
+        "members": [
+            {
+                "fname": "Vinayak",
+                "lname": "Lohia",
+                "facet_extra": "",
+                "img": "86"
+            },
+            {
+                "fname": "Ratnadeep",
+                "lname": "Nikte",
+                "facet_extra": "",
+                "img": "87"
+            },
+            {
+                "fname": "Bonu",
+                "lname": "Baladitya",
+                "facet_extra": "",
+                "img": "88"
+            },
+            {
+                "fname": "Devadiya",
+                "lname": "Marmik Yashvant",
+                "facet_extra": "",
+                "img": "89"
+            }
+        ]
+    },
+    {
+        "Facet": "Pronites",
+        "members": [
+            {
+                "fname": "Raj",
+                "lname": "Tulshan",
+                "facet_extra": "",
+                "img": "90"
+            }
+        ]
+    },
+    {
+        "Facet": "Finance",
+        "members": [
+            {
+                "fname": "Debanik",
+                "lname": "Das",
+                "facet_extra": "",
+                "img": "91"
+            },
+            {
+                "fname": "Rimshith",
+                "lname": "Lakku",
+                "facet_extra": "",
+                "img": "92"
+            }
+        ]
+    },
+    {
+        "Facet": "Web",
+        "members": [
+            {
+                "fname": "Omar",
+                "lname": "Eqbal",
+                "facet_extra": "",
+                "img": "93"
+            },
+            {
+                "fname": "Nishant",
+                "lname": "",
+                "facet_extra": "",
+                "img": "94"
+            },
+            {
+                "fname": "Nilay",
+                "lname": "Pathak",
+                "facet_extra": "",
+                "img": "95"
+            },
+            {
+                "fname": "Ankita",
+                "lname": "Sahoo",
+                "facet_extra": "",
+                "img": "96"
+            }
+        ]
+    },
+    {
+        "Facet": "Design",
+        "members": [
+            {
+                "fname": "Navin",
+                "lname": "Kumar",
+                "facet_extra": "",
+                "img": "97"
+            },
+            {
+                "fname": "Laxman",
+                "lname": "Singh Rawat",
+                "facet_extra": "",
+                "img": "98"
+            },
+            {
+                "fname": "Kushagra",
+                "lname": "Ramnani",
+                "facet_extra": "",
+                "img": "99"
+            },
+            {
+                "fname": "Richik",
+                "lname": "Raha",
+                "facet_extra": "",
+                "img": "100"
+            },
+            {
+                "fname": "Amlan",
+                "lname": "Kumar Sahu",
+                "facet_extra": "",
+                "img": "101"
+            }
+        ]
+    }
+]

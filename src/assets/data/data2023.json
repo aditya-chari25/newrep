@@ -1,0 +1,334 @@
+[
+	{
+		"Facet": "Executive Heads",
+		"members": [
+			{
+				"fname": "Rachit",
+				"lname": "Kumar",
+				"number": "+91 8002486905",
+				"fb_link": "https://www.facebook.com/rachit.kumar497/",
+				"linkedin_link": "https://www.linkedin.com/in/rachit-kumar-681751221",
+				"mail": "rachitkumar.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918002486905&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "22"
+			},
+			{
+				"fname": "K.R.",
+				"lname": "Rahul",
+				"number": "+91 9642196970",
+				"fb_link": "https://www.facebook.com/profile.php?id=100056602879445",
+				"linkedin_link": "https://www.linkedin.com/in/rahul-k-r-30a687201/?fbclid=IwAR3Y60NjhB-o1z_qu0GJVvpoXbCC5-GQrEH2GAVVxsUpjTe5h-7dIjFb5z4",
+				"mail": "krrahul.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919642196970&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "19"
+			}
+		]
+	},
+	{
+		"Facet": "Sponsorship and Marketing",
+		"members": [
+			{
+				"fname": "Arpit",
+				"lname": "Sahu",
+				"number": "+91 8529158464",
+				"fb_link": "https://www.facebook.com/arpit.sahu.71404",
+				"linkedin_link": "https://www.linkedin.com/in/arpit-sahu-093203218/",
+				"mail": "arpitsahu.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918529158464&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "34"
+			},
+			{
+				"fname": "Rishi",
+				"lname": "Kumar",
+				"number": "+91 8084927363",
+				"fb_link": "https://www.facebook.com/profile.php?id=100006118908643",
+				"linkedin_link": "https://www.linkedin.com/in/rishi-kumar-01a752221/",
+				"mail": "kumarrishi.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918084927363&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "24"
+			},
+			{
+				"fname": "Nikhil",
+				"lname": "Goyal",
+				"number": "+91 9855342222",
+				"fb_link": "https://www.facebook.com/profile.php?id=100056865170803",
+				"linkedin_link": "https://www.linkedin.com/in/nikhil-goyal-612700205/",
+				"mail": "nikhilgoyal@springfest.in",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919855342222&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "20"
+			},
+			{
+				"fname": "Nishant",
+				"lname": "Singh",
+				"number": "+91 8953255888",
+				"fb_link": "https://www.facebook.com/profile.php?id=100007995521191",
+				"linkedin_link": "www.linkedin.com/in/nishant1729",
+				"mail": "singhnishant.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918953255888&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "33"
+			},
+			{
+				"fname": "Zeeshan",
+				"lname": "Khan",
+				"number": "",
+				"fb_link": "",
+				"linkedin_link": "",
+				"mail": "",
+				"whatsapp": "",
+				"facet_extra": "",
+                "img": "31"
+			}
+		]
+	},
+	{
+		"Facet": "Publicity and Media Outreach",
+		"members": [
+			{
+				"fname": "Sanyam",
+				"lname": "Agrawal",
+				"number": "+91 7205704975",
+				"fb_link": "https://www.facebook.com/sanyam.agrawal.520/",
+				"linkedin_link": "https://www.linkedin.com/in/sanyam-agrawal-863888211/",
+				"mail": "sanyamagrawal@springfest.in",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=917205704975&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "29"
+			},
+			{
+				"fname": "Bakul",
+				"lname": "Sarkar",
+				"number": "+91 6265112847",
+				"fb_link": "https://www.facebook.com/bakul.sarkar.9828",
+				"linkedin_link": "https://www.linkedin.com/in/bakul-sarkar-6734a5205/",
+				"mail": "bakulsarkar.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=916265112847&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "16"
+			},
+			{
+				"fname": "Nitish",
+				"lname": "kumar",
+				"number": "+91 9507816000",
+				"fb_link": "https://www.facebook.com/nitishk1005",
+				"linkedin_link": "https://www.linkedin.com/in/nitish-bpns",
+				"mail": "nitishkumar1.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919507816000&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "21"
+			}
+		]
+	},	
+	{
+		"Facet": "Events",
+		"members": [
+			{
+				"fname": "Vinay",
+				"lname": "Bagra",
+				"number": "+91 8387096388",
+				"fb_link": "https://www.facebook.com/vinay.bagra.737/",
+				"linkedin_link": "https://www.linkedin.com/in/vinay-bagra-1615a821b",
+				"mail": "vinaybagra@springfest.in",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918387096388&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "27"
+			},
+			{
+				"fname": "Anurag",
+				"lname": "Raj",
+				"number": "+91 7782923389",
+				"fb_link": "https://www.facebook.com/anurag.raj.94064",
+				"linkedin_link": "https://www.linkedin.com/in/anuragraj111/",
+				"mail": "anuragraj.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=917782923389&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "13"
+			},
+			{
+				"fname": "Arihant",
+				"lname": "Shukla",
+				"number": "+91 9836367011",
+				"fb_link": "https://www.facebook.com/profile.php?id=100072451752291",
+				"linkedin_link": "https://www.linkedin.com/in/arihant-shukla-50404b21b/",
+				"mail": "arihantshukla.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919836367011&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "14"
+			},
+			{
+				"fname": "Ajinkya",
+				"lname": "Kulkarni ",
+				"number": "+91 8766426877",
+				"fb_link": "https://www.facebook.com/profile.php?id=100072451752291",
+				"linkedin_link": "https://www.linkedin.com/in/arihant-shukla-50404b21b/",
+				"mail": "arihantshukla.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918766426877&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "32"
+			}
+		]
+	},
+	{
+		"Facet": "Pronites",
+		"members": [
+			{
+				"fname": "Saheb",
+				"lname": "Lohakare",
+				"number": "+91 8317294844",
+				"fb_link": "https://www.facebook.com/Saahebl/",
+				"linkedin_link": "https://www.linkedin.com/mwlite/in/saheb-lohakare-97034120b",
+				"mail": "saheblohakare.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918317294844&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "25"
+			}
+		]
+	},
+	{
+		"Facet": "Finance",
+		"members": [
+			
+			{
+				"fname": "Sanjeev",
+				"lname": "Kumar",
+				"number": "+91 7427005753",
+				"fb_link": "https://www.facebook.com/sanjeevkr.meel/",
+				"linkedin_link": "https://www.linkedin.com/in/sanjeevkrmeel/",
+				"mail": "sanjeevkumar.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=917427005753&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "30"
+			}
+		]
+	},
+	
+	
+	
+	{
+		"Facet": "Tech",
+		"members": [
+			{
+				"fname": "Gaurav",
+				"lname": "Patidar",
+				"number": "+91 7689816680",
+				"fb_link": "https://www.facebook.com/profile.php?id=100058355270007",
+				"linkedin_link": "https://www.linkedin.com/in/gaurav-patidar-809997207/",
+				"mail": "gaurav05082002@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=917689816680&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "4"
+			},
+			{
+				"fname": "Pratyush",
+				"lname": "Garg",
+				"number": "+91 9530152915",
+				"fb_link": "https://www.facebook.com/pratyush.garg.1612/",
+				"linkedin_link": "https://www.linkedin.com/in/pratyush-g-757832125/",
+				"mail": "gargpratyush999@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919530152915&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "5"
+			},
+			{
+				"fname": "Aditya",
+				"lname": " Chari S",
+				"number": "+91 9500032720",
+				"fb_link": "https://www.facebook.com/aditya.chari.357",
+				"linkedin_link": "https://www.linkedin.com/in/aditya-chari-971750225/",
+				"mail": "adi25charis@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919500032720&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "1"
+			},
+			{
+				"fname": "Somya",
+				"lname": "Gupta",
+				"number": "+91 9971860682",
+				"fb_link": "https://www.facebook.com/somya.gupta.5895",
+				"linkedin_link": "https://www.linkedin.com/in/somya-gupta-7062a2223/",
+				"mail": "somyagupta777@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919971860682&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "6"
+			},
+			{
+				"fname": "Akshat",
+				"lname": "Tiwari",
+				"number": "+91 8004430352",
+				"fb_link": "https://m.facebook.com/home.php?ref=wizard&_rdr",
+				"linkedin_link": "www.linkedin.com/in/akshatt810",
+				"mail": "akshatt810@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918004430352&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "35"
+			},
+			{
+				"fname": "Amardeep",
+				"lname": "",
+				"number": "88734 02380",
+				"fb_link": "https://m.facebook.com/profile.php?id=100068380132407",
+				"linkedin_link": "https://www.linkedin.com/in/amardeep-sinha-01a456134/",
+				"mail": "",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918873402380&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "36"
+			}
+		]
+	},
+	{
+		"Facet": "Design and Media",
+		"members": [
+			{
+				"fname": "Shreyas",
+				"lname": "Anilal",
+				"number": "+91 7219284505",
+				"fb_link": "https://www.facebook.com/shreyas.anilal",
+				"linkedin_link": "https://www.linkedin.com/in/shreyas-anilal-883166179/",
+				"mail": "shreyas2.0sv@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=917219284505&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "10"
+			},
+			{
+				"fname": "Nidhi",
+				"lname": "Goyal",
+				"number": "+91 9319142576",
+				"fb_link": "https://www.facebook.com/profile.php?id=100059180424213",
+				"linkedin_link": "https://www.linkedin.com/in/nidhi-goyal-3a6b5322b",
+				"mail": "nidhigoyal1310@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919319142576&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "9"
+			},
+			{
+				"fname": "Aniket",
+				"lname": " Kherde",
+				"number": "+91 9730679676",
+				"fb_link": "https://www.facebook.com/aniket.kherde.18",
+				"linkedin_link": "https://www.linkedin.com/in/aniket-kherde-181120219",
+				"mail": "aniketkherde977@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919730679676&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "8"
+			},
+			{
+				"fname": "Amala",
+				"lname": "Lingamalla",
+				"number": "+91 8790250506",
+				"fb_link": "https://www.facebook.com/amala.lingamalla",
+				"linkedin_link": "https://www.linkedin.com/in/amala-lingamalla",
+				"mail": "",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918790250506&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "7"
+			}
+			
+		]
+	}
+	
+]

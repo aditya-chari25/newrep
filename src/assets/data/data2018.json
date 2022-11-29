@@ -1,0 +1,168 @@
+[
+    {
+        "Facet": "Executive Heads",
+        "members": [
+            {
+                "fname": "Vaibhav",
+                "lname": "Dusad",
+                "facet_extra": "",
+                "img":"102"
+            },
+            {
+                "fname": "Aman",
+                "lname": "Choudhary",
+                "facet_extra": "",
+                "img":"103"
+            }
+        ]
+    },
+    {
+        "Facet": "Sponsorship and Marketing",
+        "members": [
+            {
+                "fname": "Akash",
+                "lname": "Goyal",
+                "facet_extra": "",
+                "img":"104"
+            },
+            {
+                "fname": "Avirup",
+                "lname": "Mondal",
+                "facet_extra": "",
+                "img":"105"
+            },
+            {
+                "fname": "Manan",
+                "lname": "Makhija",
+                "facet_extra": "",
+                "img":"106"
+            },
+            {
+                "fname": "Veeral",
+                "lname": "Sheth",
+                "facet_extra": "",
+                "img":"107"
+            }
+        ]
+    },
+    {
+        "Facet": "Publicity and Marketing",
+        "members": [
+            {
+                "fname": "Kavita",
+                "lname": "Priyadarshini",
+                "facet_extra": "",
+                "img":"108"
+            },
+            {
+                "fname": "Suraj",
+                "lname": "Kumar",
+                "facet_extra": "",
+                "img":"109"
+            }
+        ]
+    },
+    {
+        "Facet": "Media and Public Relations",
+        "members": [
+            {
+                "fname": "Debpriyo",
+                "lname": "Goswami",
+                "facet_extra": "",
+                "img":"110"
+            },
+            {
+                "fname": "Pallav",
+                "lname": "Bhutani",
+                "facet_extra": "",
+                "img":"111"
+            }
+        ]
+    },
+    {
+        "Facet": "Events",
+        "members": [
+            {
+                "fname": "Abhijeet",
+                "lname": "Kumar",
+                "facet_extra": "",
+                "img":"112"
+            },
+            {
+                "fname": "Akshat",
+                "lname": "Jindal",
+                "facet_extra": "",
+                "img":"113"
+            },
+            {
+                "fname": "Pallav",
+                "lname": "Bhutani",
+                "facet_extra": "",
+                "img":"111"
+            },
+            {
+                "fname": "Shiwani",
+                "lname": "Kumari",
+                "facet_extra": "",
+                "img":"114"
+            }
+        ]
+    },
+    {
+        "Facet": "Pronites",
+        "members": [
+            {
+                "fname": "Parth",
+                "lname": "Gaglani",
+                "facet_extra": "",
+                "img":"115"
+            }
+        ]
+    },
+    {
+        "Facet": "Finance",
+        "members": [
+            {
+                "fname": "Bhavanasi",
+                "lname": "Sree Harsha",
+                "facet_extra": "",
+                "img":"116"
+            },
+            {
+                "fname": "Pranay",
+                "lname": "Thakre",
+                "facet_extra": "",
+                "img":"117"
+            }
+        ]
+    },
+    {
+        "Facet": "Web",
+        "members": [
+            {
+                "fname": "Ashutosh",
+                "lname": "Sameer",
+                "facet_extra": "",
+                "img":"118"
+            },
+            {
+                "fname": "Abhinav ",
+                "lname": "Saini",
+                "facet_extra": "",
+                "img":"119"
+            },
+            {
+                "fname": "Dipramit ",
+                "lname": "Pal",
+                "facet_extra": "",
+                "img":"120"
+            },
+            {
+                "fname": "Rishit ",
+                "lname": "Sinha",
+                "facet_extra": "",
+                "img":"121"
+            }
+        ]
+    }
+]

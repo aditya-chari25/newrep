@@ -1,0 +1,62 @@
+[
+    {
+		"Facet": "Sponsorship and Marketing",
+		"members": [
+			{
+				"fname": "Arpit",
+				"lname": "Sahu",
+				"number": "+91 8529158464",
+				"fb_link": "https://www.facebook.com/arpit.sahu.71404",
+				"linkedin_link": "https://www.linkedin.com/in/arpit-sahu-093203218/",
+				"mail": "arpitsahu.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918529158464&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "0"
+			},
+			{
+				"fname": "Rishi",
+				"lname": "Kumar",
+				"number": "+91 8084927363",
+				"fb_link": "https://www.facebook.com/profile.php?id=100006118908643",
+				"linkedin_link": "https://www.linkedin.com/in/rishi-kumar-01a752221/",
+				"mail": "kumarrishi.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918084927363&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "24"
+			},
+			{
+				"fname": "Nikhil",
+				"lname": "Goyal",
+				"number": "+91 9855342222",
+				"fb_link": "https://www.facebook.com/profile.php?id=100056865170803",
+				"linkedin_link": "https://www.linkedin.com/in/nikhil-goyal-612700205/",
+				"mail": "nikhilgoyal@springfest.in",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=919855342222&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "20"
+			},
+			{
+				"fname": "Nishant",
+				"lname": "Singh",
+				"number": "+91 8953255888",
+				"fb_link": "https://www.facebook.com/profile.php?id=100007995521191",
+				"linkedin_link": "www.linkedin.com/in/nishant1729",
+				"mail": "singhnishant.iitkgp@gmail.com",
+				"whatsapp": "https://api.whatsapp.com/send/?phone=918953255888&text&type=phone_number&app_absent=0",
+				"facet_extra": "",
+                "img": "0"
+			},
+			{
+				"fname": "Zeeshan",
+				"lname": "Khan",
+				"number": "",
+				"fb_link": "",
+				"linkedin_link": "",
+				"mail": "",
+				"whatsapp": "",
+				"facet_extra": "",
+                "img": "0"
+			}
+		]
+	}
+]

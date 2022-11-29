@@ -1,0 +1,268 @@
+[
+	{
+		"Facet": "Executive Heads",
+		"members": [
+			{
+				"fname": "Abhishek",
+				"lname": "Raj",
+				"number": "7979911354",
+				"fb_link": "https://www.facebook.com/profile.php?id=100040301024439",
+				"linkedin_link": "https://www.linkedin.com/in/abhishek-raj-b4ab92183/",
+				"mail": "abhishekraj1.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "25"
+			}
+		]
+	},
+	{
+		"Facet": "Sponsorship and Marketing",
+		"members": [
+			{
+				"fname": "Shubham",
+				"lname": "Krishna",
+				"number": "7004233282",
+				"fb_link": "https://www.facebook.com/shubham.krishna.1000",
+				"linkedin_link": "https://www.linkedin.com/in/shubham-krishna-728607184",
+				"mail": "shubhamkrishna.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "26"
+			},
+			{
+				"fname": "Deepansh",
+				"lname": "Singh",
+				"number": "9679252222",
+				"fb_link": "https://www.facebook.com/deepansh.singh.731",
+				"linkedin_link": "https://www.linkedin.com/in/deepansh-singh-b75635191",
+				"mail": "deepanshsingh.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "27"
+			},
+			{
+				"fname": "Nitin",
+				"lname": "Kohli",
+				"number": "9997680704",
+				"fb_link": "https://www.facebook.com/nirvigya.kohli",
+				"linkedin_link": "https://www.linkedin.com/in/nitin-kohli-964287164/",
+				"mail": "nitinkohli.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "28"
+			},
+			{
+				"fname": "Ananya",
+				"lname": "Gautam",
+				"number": "9005314711",
+				"fb_link": "https://www.facebook.com/profile.php?id=100007629259144",
+				"linkedin_link": "https://www.linkedin.com/in/ananya-gautam-328769191",
+				"mail": "ananyagautam.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "29"
+			}
+
+		]
+	},
+	{
+		"Facet": "Publicity and Marketing",
+		"members": [
+			{
+				"fname": "Saikat",
+				"lname": "Das",
+				"number": "8794160810",
+				"fb_link": "https://www.facebook.com/profile.php?id=100007860883627",
+				"linkedin_link": "https://www.linkedin.com/in/saikat-das-71929716b/",
+				"mail": "saikatdas.iitkgp@gmail.com",
+				"facet_extra": "Publicity and Marketing Head & Web Coordinator",
+                "img": "30"
+			},
+			{
+				"fname": "Aditya",
+				"lname": "Jaiswal",
+				"number": "7379880590",
+				"fb_link": "https://www.facebook.com/aditya.jaiswal.58726823",
+				"linkedin_link": "https://www.linkedin.com/in/aditya-jaiswal-2b7b65172",
+				"mail": "adityajaiswal.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "31"
+			}
+		]
+	},
+	{
+		"Facet": "Media and Public Relations",
+		"members": [
+			{
+				"fname": "Divakar",
+				"lname": "Chauhan",
+				"number": "9897960933",
+				"fb_link": "https://www.facebook.com/Domvoi",
+				"linkedin_link": "https://www.linkedin.com/in/divakar-chauhan-6b4480189",
+				"mail": "divakarchauhan.iitkgp@gmail.com",
+				"facet_extra": "Events Head",
+                "img": "32"
+			},
+			{
+				"fname": "Karan",
+				"lname": "Nagrale",
+				"number": "7083569807",
+				"fb_link": "https://www.facebook.com/karan.nagrale.3",
+				"linkedin_link": "https://www.linkedin.com/in/karan-nagrale-141168170",
+				"mail": "karannagrale.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "33"
+			}
+		]
+	},
+	{
+		"Facet": "Events",
+		"members": [
+			{
+				"fname": "Aditya",
+				"lname": "Yadav",
+				"number": "9521411924",
+				"fb_link": "https://www.facebook.com/profile.php?id=100006354661505",
+				"linkedin_link": "https://www.linkedin.com/in/aditya-yadav-b69657191/",
+				"mail": "yadavaditya.iitkgp@gmail.com",
+				"facet_extra": "Pronites, Design Coordinator",
+                "img": "34"
+			},
+			{
+				"fname": "Divakar",
+				"lname": "Chauhan",
+				"number": "9897960933",
+				"fb_link": "https://www.facebook.com/Domvoi",
+				"linkedin_link": "https://www.linkedin.com/in/divakar-chauhan-6b4480189",
+				"mail": "divakarchauhan.iitkgp@gmail.com",
+				"facet_extra": "Media and Public Relations Head",
+                "img": "35"
+			},
+			{
+				"fname": "Saket",
+				"lname": "Agrawal",
+				"number": "7634870050",
+				"fb_link": "https://www.facebook.com/saket.agrawal.7393",
+				"linkedin_link": "https://www.linkedin.com/in/saket-agrawal-9bb086170/",
+				"mail": "amit@springfest.in",
+				"facet_extra": "Design Coordinator",
+                "img": "36"
+			},
+			{
+				"fname": "Karan",
+				"lname": "Nagrale",
+				"number": "7083569807",
+				"fb_link": "https://www.facebook.com/karan.nagrale.3",
+				"linkedin_link": "https://www.linkedin.com/in/karan-nagrale-141168170",
+				"mail": "karannagrale.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "37"
+			}
+		]
+	},
+	{
+		"Facet": "Pronites",
+		"members": [
+			{
+				"fname": "Aditya",
+				"lname": "Yadav",
+				"number": "9521411924",
+				"fb_link": "https://www.facebook.com/profile.php?id=100006354661505",
+				"linkedin_link": "https://www.linkedin.com/in/aditya-yadav-b69657191/",
+				"mail": "yadavaditya.iitkgp@gmail.com",
+				"facet_extra": "Events Head & Design Coordinator",
+                "img": "38"
+			}
+		]
+	},
+	{
+		"Facet": "Finance",
+		"members": [
+			{
+				"fname": "Ashu",
+				"lname": "Kumar",
+				"number": "8527986802",
+				"fb_link": "https://www.facebook.com/profile.php?id=100053451245335",
+				"linkedin_link": "https://www.linkedin.com/in/ashu-kumar-947168170",
+				"mail": "ashukumar1.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "39"
+			}
+		]
+	},
+	{
+		"Facet": "Web",
+		"members": [
+			{
+				"fname": "Shuvomoy",
+				"lname": "Dey",
+				"number": "9609968999",
+				"fb_link": "https://www.facebook.com/shuvomoy.dey",
+				"linkedin_link": "https://www.linkedin.com/in/shuvomoy-dey-7a560416b/",
+				"mail": "shuvo151dey@gmail.com",
+				"facet_extra": "",
+                "img": "40"
+			},
+			{
+				"fname": "Arkaprava",
+				"lname": "Ghosh",
+				"number": "8420595895",
+				"fb_link": "https://www.facebook.com/arkaprava.ghosh16691/",
+				"linkedin_link": "https://www.linkedin.com/in/arka816/",
+				"mail": "arkaprava.mail@gmail.com",
+				"facet_extra": "",
+                "img": "41"
+			}
+		]
+	},
+	{
+		"Facet": "Design",
+		"members": [
+			{
+				"fname": "Soumyadeep",
+				"lname": "Nandi",
+				"number": "7838971513",
+				"fb_link": "https://www.facebook.com/soumya99nandi",
+				"linkedin_link": "https://www.linkedin.com/in/soumyadeep99nandi",
+				"mail": "soumya99nandi@gmail.com",
+				"facet_extra": "",
+                "img": "42"
+			},
+			{
+				"fname": "Tarun",
+				"lname": "Jindal",
+				"number": "7023584320",
+				"fb_link": "https://www.facebook.com/tarun.jindal.9216/",
+				"linkedin_link": "https://www.linkedin.com/in/tarun-jindal-38a535b8/",
+				"mail": "tarunjindal45@gmail.com",
+				"facet_extra": "",
+                "img": "43"
+			},
+			{
+				"fname": "Shivam",
+				"lname": "Shrivastava",
+				"number": "9263190742",
+				"fb_link": "https://www.facebook.com/shivam.shrivastava.98/",
+				"linkedin_link": "https://www.linkedin.com/in/shivam-shrivastava-ab6404179/",
+				"mail": "shivamshrivastava2000@gmail.com",
+				"facet_extra": "",
+                "img": "44"
+			},
+			{
+				"fname": "Gauri",
+				"lname": "Karkhanis",
+				"number": "9822854615",
+				"fb_link": "https://www.facebook.com/gauk2000",
+				"linkedin_link": "https://www.linkedin.com/in/gaurikarkhanis/",
+				"mail": "gauri.2000k@gmail.com",
+				"facet_extra": "",
+                "img": "45"
+			},
+			{
+				"fname": "Haveen",
+				"lname": "Hrithic",
+				"number": "9626480120",
+				"fb_link": "https://www.facebook.com/haveen.hrithictl",
+				"linkedin_link": "https://www.linkedin.com/in/haveen-hrithic-90916716b",
+				"mail": "haveenhrithic.iitkgp@gmail.com",
+				"facet_extra": "",
+                "img": "46"
+			}
+		]
+	}
+]
